@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![imagenGitHub](https://user-images.githubusercontent.com/85709941/140374275-0a4ab9ca-622f-4ddd-8c2f-e8bf09b11fb9.jpg)
+
+
 ```
 const aboutMe = {
    pronouns: "he" | "him",
