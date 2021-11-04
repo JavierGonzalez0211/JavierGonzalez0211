@@ -33,3 +33,13 @@ const aboutMe = {
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgressJS"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB"></code>
   
+<h2 align="center"> 📫 You can reach me at:</h2>
+
+   <p>
+   <code><img width="20%" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="Gmail: ejgcontador.uba@gmail.com"></code>
+   <h3>ejgcontador.uba@gmail.com</h3>
+      
+  <a href="https://www.linkedin.com/in/edgardo-javier-gonzalez-full-stack-developer/">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn">
+  </a>
+   </p>
