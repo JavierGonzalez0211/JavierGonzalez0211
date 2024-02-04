@@ -6,10 +6,10 @@
 ```
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript,  HTML, CSS, Python],
+   code: [Javascript,  HTML, CSS, TypesScript],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
+         js: ["React", "Redux","NextJS", "Astro"],
            },
       backEnd: {
           js: ["Node", "Express", "Sequelize"],
@@ -17,7 +17,6 @@ const aboutMe = {
       databases: ["MongoDB", "mySQL", "PostgreSQL"],
       },
    currentOccupation: ["Freelance Web Developer, open for job opportunities"],
-   inProgress: [TypesScript, ReactNative]
 };
 ```
 
